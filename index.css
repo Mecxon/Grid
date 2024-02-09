@@ -1,0 +1,8 @@
+.Grid{
+    display: grid;
+}
+.Grid div{
+background-color: blue;
+height: 10px;
+width: 5px;
+}
